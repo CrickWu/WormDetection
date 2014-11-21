@@ -1,0 +1,16 @@
+# visual studio
+*.sdf
+*.sln
+*.suo
+*.opensdf
+*.vcxproj*
+*.props
+
+# build files
+ipch/
+x64/
+worm/x64
+
+# resources
+*.bmp
+*.png
